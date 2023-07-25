@@ -27,7 +27,7 @@ const Shop = () => {
 
           
           }
-          console.log('added Product', addedProduct)
+          // console.log('added Product', addedProduct)
 
         }
         setCart(savedCart)
